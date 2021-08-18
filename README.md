@@ -1,0 +1,2 @@
+- 👋Hola me llamo @Alexis-Loco-Por-Debian
+- me gusta crear scripts para debian 
